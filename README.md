@@ -94,5 +94,7 @@ You can confidently showcase this project on:
 ✅ Interview Case Studies
 
 
-
 OUTPUT-
+<img width="1304" height="919" alt="Image" src="https://github.com/user-attachments/assets/199729b9-dbb2-40ff-be2a-23599f9c7872" />
+
+
